@@ -1,9 +1,9 @@
-import MainModal from "./components/question-3/MainModal";
+import UndoableCounter from "./components/question-4/UndoableCounter";
 
 function App() {
   return (
     <div className="App">
-      <MainModal />
+      <UndoableCounter />
     </div>
   );
 }

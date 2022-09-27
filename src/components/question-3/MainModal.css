@@ -1,0 +1,18 @@
+
+.modal-window{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+}
+.modal-opened{
+    backdrop-filter: blur(2px);
+    
+    background-color: rgba(0,0,0,0.8);
+   
+}
+.button-container{
+   
+    width: 200px;
+    margin: 0 auto;
+}

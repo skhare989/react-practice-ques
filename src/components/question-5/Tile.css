@@ -1,0 +1,17 @@
+.tile{
+    padding: 8px;
+    border: turquoise solid 1px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+
+}
+.number-show{
+    display: block;
+}
+.number-hidden{
+    display: none;
+}
+.remove-tile{
+    visibility: hidden;
+}

@@ -1,0 +1,15 @@
+.container{
+    width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+}
+.parent {
+    display: grid;
+    grid-template-columns: repeat(6, 60px);
+    grid-template-rows: repeat(6, 60px);
+    grid-column-gap: 12px;
+    grid-row-gap: 12px;
+}
+.container-disallow-user{
+    cursor: not-allowed;
+}

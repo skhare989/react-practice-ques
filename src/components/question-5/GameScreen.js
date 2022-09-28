@@ -47,7 +47,7 @@ const GameScreen = () => {
         if (checkWinner(gameNumbers)) {
           setIsWinner(true);
         }
-      }, 3000);
+      }, 1000);
     }
   };
 

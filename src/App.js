@@ -1,9 +1,9 @@
-import GameScreen from "./components/question-5/GameScreen";
+import ImageCarousel from "./components/question-8/ImageCarousel";
 
 function App() {
   return (
     <div className="App">
-      <GameScreen />
+      <ImageCarousel />
     </div>
   );
 }

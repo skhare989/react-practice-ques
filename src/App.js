@@ -1,9 +1,8 @@
-import ImageCarousel from "./components/question-8/ImageCarousel";
-
+import QuesBlog from "./components/question-9/QuesBlog";
 function App() {
   return (
     <div className="App">
-      <ImageCarousel />
+      <QuesBlog />
     </div>
   );
 }

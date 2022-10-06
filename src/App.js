@@ -1,8 +1,9 @@
-import QuesBlog from "./components/question-9/QuesBlog";
+import FolderStructure from "./components/question-10/FolderStructure";
+
 function App() {
   return (
     <div className="App">
-      <QuesBlog />
+      <FolderStructure />
     </div>
   );
 }
